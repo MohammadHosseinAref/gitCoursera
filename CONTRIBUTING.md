@@ -1,1 +1,1 @@
-
+The repository contains a CONTRIBUTING.md file that outlines how individuals can contribute to the project. It includes guidelines on reporting issues, submitting pull requests, and maintaining code quality, which helps facilitate collaborative contributions
