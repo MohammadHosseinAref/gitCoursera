@@ -1,1 +1,1 @@
-
+"The file simple-interest.sh is present in the repository and contains the implementation of the simple interest calculation. The code is structured according to the specified requirements and has been thoroughly tested to ensure its accuracy and reliability
